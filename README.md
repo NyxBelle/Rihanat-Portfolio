@@ -47,7 +47,7 @@ npm start
 
 ## 📬 Contact
 
-* **Portfolio:** [your-portfolio-link](#)
+* **Portfolio:** [portfolio](https://rihanat-portfolio-eta.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/rihanat-idowu](https://www.linkedin.com/in/rihanat-idowu)
 * **GitHub:** [github.com/NyxBelle](https://github.com/NyxBelle)
 * **Email:** [rihanatidowu3@gmail.com](mailto:rihanatidowu3@gmail.com)
