@@ -51,7 +51,7 @@ export const Header = () => {
           </div>
 
           <div className="hidden md:block">
-            <a href="https://drive.google.com/file/d/1a_bNtEcASZjTSDc1h0QjvIbAINCr59DR/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1b5f31BLcQ_y-NjbHeO79bZ3FJNIF6zed/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="sm">
                 Resume
               </Button>
