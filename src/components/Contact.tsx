@@ -18,7 +18,7 @@ export const Contact = () => {
             <a href="https://www.linkedin.com/in/rihanat-idowu" target="_blank" rel="noopener noreferrer" className="btn-ai">
               Get In Touch
             </a>
-            <a href="https://drive.google.com/file/d/1a_bNtEcASZjTSDc1h0QjvIbAINCr59DR/view?usp=drivesdk" target="_blank" rel="noopener noreferrer" className="btn-outline-ai">
+            <a href="https://drive.google.com/file/d/1b5f31BLcQ_y-NjbHeO79bZ3FJNIF6zed/view?usp=drivesdk" target="_blank" rel="noopener noreferrer" className="btn-outline-ai">
               Download Resume
             </a>
           </div>
